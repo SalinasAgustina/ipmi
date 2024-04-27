@@ -1,3 +1,7 @@
+//Agustina Salinas
+//Comision 3
+//Legajo 93058/0
+
 PImage img; 
 
 void setup(){
