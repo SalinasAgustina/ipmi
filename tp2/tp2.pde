@@ -1,3 +1,7 @@
+//Salinas Agustina
+//Comision 3
+//Legajo 93058/0
+
 PImage imagenP1, imagenP2, imagenP3, boton;
 PFont fuenteP1, fuenteP2, fuenteP3;
 int pantalla = 1;
