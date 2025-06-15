@@ -1,4 +1,4 @@
-//link de video 
+//link de video https://youtu.be/4aFURNdyy2c?feature=shared
 int tamX, tamY;
 int cant = 2 ;
 int cantCuadrados = 19;
